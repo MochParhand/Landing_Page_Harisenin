@@ -1,0 +1,109 @@
+.nav-link{
+    color: white;
+}
+body{
+    background-image: url('/assets/shop-hero-3-product-slide-2.jpg');  
+    background-size: contain;
+    background-position: center;
+    height: 100vh;
+}
+.navbar{
+    background-color:#921507;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 58px;
+}
+.collapse{
+    margin-left: 82px;
+}x  
+.navbar-nav{
+    margin-right: 471px;
+}
+.navbar2{
+    display: flex;
+}
+.header p{
+    color: var(--light-text-color, #FFF);
+    text-align: center;
+
+    /* h1 */
+    font-family: Montserrat;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px; /* 137.931% */
+    letter-spacing: 0.2px;
+}
+.header h1{
+    color: var(--light-text-color, #FFF);
+    text-align: center;
+
+    /* h4 */
+    font-family: Montserrat;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 150% */
+    letter-spacing: 0.2px;
+}
+button{
+    margin-left: 45%;
+}
+
+.tulisan{
+    margin-top: 150px;
+    z-index: -1;
+}
+.footer{
+    background-color: black;
+    padding: 10px;
+    position: sticky;
+    top: 100%;
+    background-color: #252B42;
+    height: 58px;
+}
+
+.container{
+    position: relative;
+    right: 85px;
+    top: 5px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+    letter-spacing: 0.2px;
+}
+.row1{
+    display: flex;
+
+}
+.row2{
+    display: flex;
+    position: relative;
+    right: 80px;
+}
+.kolom1{
+    
+    position: relative;
+    left: 10px;
+}
+.kolom1 h6{
+    position: relative;
+    top: 3px;
+}
+.kolom2{
+    display: flex;
+}
+.kolom2 h6{
+    position: relative;
+    top: 3px;
+}
+.row4{
+    position: relative;
+    left: 170px;
+}
+
+
+
